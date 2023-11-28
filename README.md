@@ -6,38 +6,39 @@
 
 ## :bulb: [기능소개]
 ### 1) [온보딩]
-![Visible_Hand](./readmeFiles/OnBoarding.gif){: width="700px"}
+<img src="./readmeFiles/OnBoarding.gif" alt="visiblehand" width="1000" height="500">
 
 ### 2) [소셜 로그인] 
-![Visible_Hand](./readmeFiles/Login.gif){: width="700px"}
+<img src="./readmeFiles/Login.gif" alt="visiblehand" width="1000" height="500">
 
 ### 3) [워드 클라우드] 
 - 분야별 상위 25개 단어 워드 클라우드 형태로 제공  
-![Visible_Hand](./readmeFiles/Word.gif){: width="700px"}
+<img src="./readmeFiles/Word.gif" alt="visiblehand" width="1000" height="500">
 
 ### [뉴스 상세 보기 및 뉴스 퀴즈] 
 - 뉴스 글자 크기 조정 기능
 - 뉴스 스크랩 기능
 - 뉴스 피드 작성 기능
 - 뉴스 이해도를 학인할 수 있는 퀴즈 제공  
-![Visible_Hand](./readmeFiles/News2.gif){: width="700px"}
+<img src="./readmeFiles/News2.gif" alt="visiblehand" width="1000" height="500">
 
 ### [피드]
 - 팔로우한 유저의 피드 목록 확인 기능  
-![Visible_Hand](./readmeFiles/Feed2.gif){: width="700px"}
+<img src="./readmeFiles/Feed2.gif" alt="visiblehand" width="1000" height="500">
+
 
 ### [경제 용어 사전]
 - 분야별 경제 용어 사전  
-![Visible_Hand](./readmeFiles/Dict.gif){: width="700px"}
+<img src="./readmeFiles/Dict.gif" alt="visiblehand" width="1000" height="500">
 
 ### [경제 용어 퀴즈]
-![Visible_Hand](./readmeFiles/Quiz.gif){: width="700px"}
+<img src="./readmeFiles/Quiz.gif" alt="visiblehand" width="1000" height="500">
 
 ### [마이페이지]
 - 뉴스에 작성한 피드 확인 기능
 - 스크랩한 뉴스 확인 기능
 - 경제 용어 퀴즈 문제 풀이 중 틀린 문제만 재풀이 기능 제공  
-![Visible_Hand](./readmeFiles/MyPage.gif){: width="700px"}  
+<img src="./readmeFiles/MyPage.gif" alt="visiblehand" width="1000" height="500">
 
 <br>
 
@@ -88,14 +89,14 @@
 <br>
 
 ## :bulb: 아키텍처
-![Visible_Hand](./readmeFiles/Architecture.png){: width="700px"}  
+<img src="./readmeFiles/Architecture.png" alt="visiblehand" width="1000" height="500">
 
 <br>
 
 ## :bulb: ERD
-![Visible_Hand](./readmeFiles/ERD.png){: width="700px"}  
+<img src="./readmeFiles/ERD.png" alt="visiblehand" width="1000" height="500">
 
 <br>
 
 ## :bulb: 팀원 소개
-![Visible_Hand](./readmeFiles/Team.png){: width="700px"}
+<img src="./readmeFiles/Team.png" alt="visiblehand" width="1000" height="500">
